@@ -1,1 +1,1 @@
-# MachileLearningProjects
+# Simple Machine Learning Projects 
